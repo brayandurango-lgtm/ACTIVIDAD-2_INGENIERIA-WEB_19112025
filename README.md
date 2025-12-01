@@ -24,13 +24,13 @@ Tecnologias utilizadas:
 Instrucciones de instalacion: 
 1. Instalación y Ejecución del Proyecto
 Clonar el repositorio
-git clone https://github.com/tu_usuario/creditsmart.git
+git clone
 cd creditsmart.
-2. Instalar las dependencias del proyecto 
+3. Instalar las dependencias del proyecto 
 npm install
-3. Ejecutar el servidor de desarrollo
+4. Ejecutar el servidor de desarrollo
 npm run dev
-4. Abrir y revisar la pagina web
+5. Abrir y revisar la pagina web
 
 Capturas de pantalla:
 Se subira en canvas academico.
