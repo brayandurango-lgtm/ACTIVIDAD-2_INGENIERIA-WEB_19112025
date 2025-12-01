@@ -34,3 +34,5 @@ npm run dev
 
 Capturas de pantalla:
 Se subira en canvas academico.
+
+jajajaja
